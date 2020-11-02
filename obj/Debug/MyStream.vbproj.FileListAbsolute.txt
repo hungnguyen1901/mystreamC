@@ -1,0 +1,35 @@
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\bin\Debug\MyStream.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\bin\Debug\MyStream.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\bin\Debug\MyStream.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\bin\Debug\MyStream.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\obj\Debug\MyStream.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\obj\Debug\ChuCong.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\obj\Debug\ChuCong.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\obj\Debug\MyStream.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\obj\Debug\MyStream.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\obj\Debug\MyStream.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\MyStream\obj\Debug\MyStream.pdb
+C:\Users\hungn\Downloads\Sample MyStream\bin\Debug\MyStream.exe.config
+C:\Users\hungn\Downloads\Sample MyStream\bin\Debug\MyStream.exe
+C:\Users\hungn\Downloads\Sample MyStream\bin\Debug\MyStream.pdb
+C:\Users\hungn\Downloads\Sample MyStream\bin\Debug\MyStream.xml
+C:\Users\hungn\Downloads\Sample MyStream\obj\Debug\MyStream.vbprojAssemblyReference.cache
+C:\Users\hungn\Downloads\Sample MyStream\obj\Debug\ChuCong.Form1.resources
+C:\Users\hungn\Downloads\Sample MyStream\obj\Debug\ChuCong.Resources.resources
+C:\Users\hungn\Downloads\Sample MyStream\obj\Debug\MyStream.vbproj.GenerateResource.cache
+C:\Users\hungn\Downloads\Sample MyStream\obj\Debug\MyStream.vbproj.CoreCompileInputs.cache
+C:\Users\hungn\Downloads\Sample MyStream\obj\Debug\MyStream.exe
+C:\Users\hungn\Downloads\Sample MyStream\obj\Debug\MyStream.xml
+C:\Users\hungn\Downloads\Sample MyStream\obj\Debug\MyStream.pdb
+D:\Sample MyStream\bin\Debug\MyStream.exe.config
+D:\Sample MyStream\bin\Debug\MyStream.exe
+D:\Sample MyStream\bin\Debug\MyStream.pdb
+D:\Sample MyStream\bin\Debug\MyStream.xml
+D:\Sample MyStream\obj\Debug\ChuCong.Form1.resources
+D:\Sample MyStream\obj\Debug\ChuCong.Resources.resources
+D:\Sample MyStream\obj\Debug\MyStream.vbproj.GenerateResource.cache
+D:\Sample MyStream\obj\Debug\MyStream.vbproj.CoreCompileInputs.cache
+D:\Sample MyStream\obj\Debug\MyStream.exe
+D:\Sample MyStream\obj\Debug\MyStream.xml
+D:\Sample MyStream\obj\Debug\MyStream.pdb
+D:\Sample MyStream\obj\Debug\MyStream.vbprojAssemblyReference.cache
